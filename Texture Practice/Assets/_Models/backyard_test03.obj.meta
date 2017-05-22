@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 6bf6da6c545aa1443b5caad7f647717d
+timeCreated: 1495436770
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: door001
+    100004: Floor
+    100006: gutter
+    100008: ladder001
+    100010: ladder002
+    100012: tube001
+    100014: tube002
+    100016: tube003
+    100018: Wall002
+    100020: Wall01
+    100022: Box002
+    100024: ladder
+    100026: OpenSCAD_Model
+    100028: tube004
+    400000: //RootNode
+    400002: door001
+    400004: Floor
+    400006: gutter
+    400008: ladder001
+    400010: ladder002
+    400012: tube001
+    400014: tube002
+    400016: tube003
+    400018: Wall002
+    400020: Wall01
+    400022: Box002
+    400024: ladder
+    400026: OpenSCAD_Model
+    400028: tube004
+    2300000: door001
+    2300002: Floor
+    2300004: gutter
+    2300006: ladder001
+    2300008: ladder002
+    2300010: tube001
+    2300012: tube002
+    2300014: tube003
+    2300016: Wall002
+    2300018: Wall01
+    2300020: Box002
+    2300022: ladder
+    2300024: OpenSCAD_Model
+    2300026: tube004
+    3300000: door001
+    3300002: Floor
+    3300004: gutter
+    3300006: ladder001
+    3300008: ladder002
+    3300010: tube001
+    3300012: tube002
+    3300014: tube003
+    3300016: Wall002
+    3300018: Wall01
+    3300020: Box002
+    3300022: ladder
+    3300024: OpenSCAD_Model
+    3300026: tube004
+    4300000: door001
+    4300002: Floor
+    4300004: gutter
+    4300006: ladder001
+    4300008: ladder002
+    4300010: tube001
+    4300012: tube002
+    4300014: tube003
+    4300016: Wall002
+    4300018: Wall01
+    4300020: Box002
+    4300022: ladder
+    4300024: OpenSCAD_Model
+    4300026: tube004
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
