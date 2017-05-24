@@ -9,7 +9,7 @@ public class FlickeringLight : MonoBehaviour
     public Light candle;
 
     // Array of random values for the intensity.
-    private float[] smoothing = new float[30];
+    private float[] smoothing = new float[10];
 
     void Start()
     {
@@ -38,6 +38,6 @@ public class FlickeringLight : MonoBehaviour
 
         // Compute the average of the array and assign it to the
         // light intensity.
-        candle.intensity = sum / smoothing.Length;
+        candle.intensity = sum / smoothing.Length +1;
     }
 }
